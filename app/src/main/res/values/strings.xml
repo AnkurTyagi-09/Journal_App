@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">JournalApp</string>
+    <string-array name="mood_array">
+        <item>Happy 😊</item>
+        <item>Sad 😢</item>
+        <item>Neutral 😐</item>
+        <item>Excited 🎉</item>
+        <item>Stressed 😓</item>
+    </string-array>
+    <string name="settings_title">Settings</string>
+    <string name="layout_label">Journal List Layout</string>
+    <string name="background_color_label">Custom Background Color</string>
+    <string name="red_label">Red</string>
+    <string name="green_label">Green</string>
+    <string name="blue_label">Blue</string>
+    <string-array name="layout_options">
+        <item>Linear</item>
+        <item>Grid</item>
+    </string-array>
+</resources>

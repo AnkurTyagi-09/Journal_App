@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#3F51B5</color>
+    <color name="primary_dark">#303F9F</color>
+    <color name="accent">#FF4081</color>
+    <color name="background">#FAFAFA</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="white">#FFFFFF</color>
+    <color name="mood_happy">#4CAF50</color> <!-- Green for Happy -->
+    <color name="mood_sad">#2196F3</color> <!-- Blue for Sad -->
+    <color name="mood_neutral">#9E9E9E</color> <!-- Grey for Neutral -->
+    <color name="mood_excited">#FF9800</color> <!-- Orange for Excited -->
+    <color name="mood_stressed">#F44336</color> <!-- Red for Stressed -->
+</resources>
