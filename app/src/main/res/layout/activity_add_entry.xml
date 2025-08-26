@@ -20,6 +20,7 @@
             android:id="@+id/titleInput"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:background="@drawable/input_background"
             android:imeOptions="actionNext" />
 
     </com.google.android.material.textfield.TextInputLayout>
@@ -36,6 +37,7 @@
             android:id="@+id/contentInput"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:background="@drawable/input_background"
             android:inputType="textMultiLine"
             android:minLines="5" />
 
